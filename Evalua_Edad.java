@@ -20,7 +20,7 @@ public class Evalua_Edad {
 			System.out.println("Eres adulto");
 		}
 		else {
-			System.out.println("Cuidate porque sos un viejo choto");
+			System.out.println("Cuidate porque sos anciano");
 		}
 		
 	}
